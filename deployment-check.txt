@@ -1,0 +1,1 @@
+GitHub deployment permission check for Kobe trip.
